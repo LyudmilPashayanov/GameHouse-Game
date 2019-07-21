@@ -1,0 +1,193 @@
+{
+	"levels": 
+  [
+      {"levelID": "1", "passed": "true", "spawnees": "1","enemies": "1", "time": "3", "moved": "false","scalable":"false","clicks":"11" },
+      {"levelID": "2", "passed": "false", "spawnees": "2","enemies": "2", "time": "3", "moved": "false","scalable":"false","clicks":"12"   },
+      {"levelID": "3", "passed": "false", "spawnees": "3","enemies": "3", "time": "3", "moved": "true","scalable":"false","clicks":"13"   },
+      {"levelID": "4", "passed": "false", "spawnees": "4","enemies": "4", "time": "8", "moved": "true","scalable":"false","clicks":"14"   },
+      {"levelID": "5", "passed": "false", "spawnees": "5","enemies": "5", "time": "9", "moved": "true","scalable":"false","clicks":"15"   },
+      {"levelID": "6", "passed": "false", "spawnees": "6","enemies": "6", "time": "10", "moved": "true","scalable":"false","clicks":"16"   },
+      {"levelID": "7", "passed": "false", "spawnees": "4","enemies": "4", "time": "11", "moved": "true","scalable":"false","clicks":"17"   },
+      {"levelID": "8", "passed": "false", "spawnees": "5","enemies": "1", "time": "12", "moved": "true","scalable":"false","clicks":"18"   },
+      {"levelID": "9", "passed": "false", "spawnees": "5","enemies": "4", "time": "13", "moved": "true","scalable":"false","clicks":"19"   },
+      {"levelID": "10", "passed": "false", "spawnees": "4","enemies": "2", "time": "14", "moved": "true","scalable":"false","clicks":"20"  },	  
+	  {"levelID": "11", "passed": "false", "spawnees": "2","enemies": "2", "time": "15", "moved": "true","scalable":"false","clicks":"21"  },
+	  {"levelID": "12", "passed": "false", "spawnees": "5","enemies": "2", "time": "16", "moved": "true","scalable":"false","clicks":"22"  }
+  ],
+  "boosters":
+  [
+	  {"boostID":"1","Name":"click3","DisplayName":"+99 clicks","effect":"99","Gems":"1"},
+	  {"boostID":"2","Name":"click6","DisplayName":"+20 clicks","effect":"20","Gems":"1"},
+	  {"boostID":"3","Name":"click10","DisplayName":"+10 clicks","effect":"10","Gems":"1"},
+	  {"boostID":"4","Name":"time2","DisplayName":"+2 seconds","effect":"2","Gems":"1"},
+	  {"boostID":"5","Name":"time3","DisplayName":"+3 seconds","effect":"3","Gems":"1"},
+	  {"boostID":"6","Name":"time4","DisplayName":"+4 seconds","effect":"4","Gems":"1"}
+  ],
+  "Catalog": [
+    {
+      "ItemId": "Booster_10_clicks",
+      "ItemClass": null,
+      "CatalogVersion": "1",
+      "DisplayName": "Booster 10 clicks",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GE": 5
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [],
+      "CustomData": "10",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Booster_3_Clicks",
+      "ItemClass": null,
+      "CatalogVersion": "1",
+      "DisplayName": "Booster 3 Clicks",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GE": 1
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [],
+      "CustomData": "3",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Booster_6_Clicks",
+      "ItemClass": null,
+      "CatalogVersion": "1",
+      "DisplayName": "Booster 6 Clicks",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GE": 2
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [],
+      "CustomData": "6",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Booster_3_Seconds",
+      "ItemClass": null,
+      "CatalogVersion": "1",
+      "DisplayName": "Booster 3 Seconds",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GE": 2
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [],
+      "CustomData": "3",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Booster_2_Seconds",
+      "ItemClass": null,
+      "CatalogVersion": "1",
+      "DisplayName": "Booster 2 Seconds",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GE": 1
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [],
+      "CustomData": "2",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    },
+    {
+      "ItemId": "Booster_4_Seconds",
+      "ItemClass": null,
+      "CatalogVersion": "1",
+      "DisplayName": "Booster 4 Seconds",
+      "Description": null,
+      "VirtualCurrencyPrices": {
+        "GE": 3
+      },
+      "RealCurrencyPrices": null,
+      "Tags": [],
+      "CustomData": "4",
+      "Consumable": {
+        "UsageCount": null,
+        "UsagePeriod": null,
+        "UsagePeriodGroup": null
+      },
+      "Container": null,
+      "Bundle": null,
+      "CanBecomeCharacter": false,
+      "IsStackable": false,
+      "IsTradable": false,
+      "ItemImageUrl": null,
+      "IsLimitedEdition": false,
+      "InitialLimitedEditionCount": 0,
+      "ActivatedMembership": null
+    }
+  ]
+  
+}
+
+
